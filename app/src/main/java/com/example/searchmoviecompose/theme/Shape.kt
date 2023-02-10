@@ -1,4 +1,4 @@
-package com.example.searchmoviecompose.ui.theme
+package com.example.searchmoviecompose.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
